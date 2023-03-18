@@ -1,0 +1,18 @@
+html {
+    front-size: 22px;
+}
+
+a {
+    color: blueviolet;
+}
+
+a:visited {
+
+    color: royalblue;
+}
+
+a:hover,
+a:active {
+
+    color: #6d0e0e;
+}
